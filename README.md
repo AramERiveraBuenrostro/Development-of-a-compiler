@@ -1,0 +1,1 @@
+In this school project I developed a compiler that allows carrying out the 6 phases
