@@ -3,8 +3,8 @@
 # RIVERA BUENROSTRO ARAM ELIAS 
 # Materia: COMPILADORES
 # Profesor: Dr. Luis Efrén Veloz Ortiz
-#Primera entrega: 25/04/2023
-# Fecha de entregra final: 16/06/2023
+#Primera entrega: 25/04/2024
+# Fecha de entregra final: 16/06/2024
 
 import re  # Biblioteca principal
 
